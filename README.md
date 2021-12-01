@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @PhantomImad
+- 👀 I’m interested in movies, songs, coding and gaming!
+- 🌱 I’m currently learning Java Script, Java, HTML and CSS
+- 📫 You can contact me on Discord - Phantomヅ#3132
+- ✨ My Discord Bot - https://dsc.gg/eternosbot
+- ✨ Bot Support Server - https://dsc.gg/eternosguild
