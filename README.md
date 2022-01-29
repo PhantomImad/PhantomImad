@@ -4,3 +4,5 @@
 - 📫 You can contact me on Discord - Phantomヅ#3132
 - ✨ My Discord Bot - https://dsc.gg/eternosbot
 - ✨ Discord Server - https://discord.gg/T3Suf4kQw2
+
+https://github.com/PhantomImad
