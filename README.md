@@ -5,4 +5,12 @@
 - ✨ My Discord Bot - https://dsc.gg/eternosbot
 - ✨ Discord Server - https://discord.gg/T3Suf4kQw2
 
+![Phantom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomImad&show_icons=true&theme=dark)
+
+
+[![Top languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomImad)]
+
+
+
+
 
