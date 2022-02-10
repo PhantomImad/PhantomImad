@@ -11,7 +11,7 @@
 ![Phantom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomImad&show_icons=true&theme=dark)  
 
 
-![My coding stats](https://wakatime.com/share/@PhantomImad/a9fa32c6-a60e-49c2-bd5c-a706392a4aca.png)
+![My coding stats](https://wakatime.com/share/@PhantomImad/bb562804-e58e-4931-a9d6-1f216c34b726.png)
 
 
 
