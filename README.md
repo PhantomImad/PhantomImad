@@ -14,3 +14,4 @@ Time spent on coding my bot since February 2022 - [![wakatime](https://wakatime.
 
 Time spent on learning React JS since February 2022 - [![wakatime](https://wakatime.com/badge/user/573a84ac-bf89-445d-82d5-d18929cfcada/project/972cda0b-5cd3-4696-b230-36937a8cbc76.svg)](https://wakatime.com/badge/user/573a84ac-bf89-445d-82d5-d18929cfcada/project/972cda0b-5cd3-4696-b230-36937a8cbc76)
 
+![VB](https://voidbots.net/api/embed/880317355627016232)
