@@ -10,5 +10,6 @@
 
 ![Phantom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomImad&show_icons=true&theme=dark)  
 
+[![wakatime](https://wakatime.com/badge/user/573a84ac-bf89-445d-82d5-d18929cfcada/project/cb510310-a6e6-4792-b308-fadfdeb1bd23.svg)](https://wakatime.com/badge/user/573a84ac-bf89-445d-82d5-d18929cfcada/project/cb510310-a6e6-4792-b308-fadfdeb1bd23)
 
 
